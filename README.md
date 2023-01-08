@@ -3546,3 +3546,4 @@ Updated dependencies to latest versions
 Updated styling and themes - 536
 Fixed critical bug in main module
 Added new feature for better user experience - update 35
+Updated styling and themes - v9.6.0
