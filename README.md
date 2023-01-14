@@ -1684,3 +1684,4 @@ Improved user interface design - v3.1.9
 Updated styling and themes - 981
 Fixed memory management issue - update 11
 Improved user interface design
+Updated README with new instructions - 582
