@@ -417,3 +417,4 @@ Updated dependencies to latest versions
 Updated dependencies to latest versions - v2.9.1
 Fixed critical bug in main module
 Updated project documentation - build 622
+Added detailed comments for clarity - v7.7.3
