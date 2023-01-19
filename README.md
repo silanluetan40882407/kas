@@ -3122,3 +3122,4 @@ Fixed typo in documentation - 15
 Fixed code formatting issues - build 327
 Improved performance optimization
 Updated README with new instructions - build 523
+Added new feature for better user experience - v8.7.0
