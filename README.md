@@ -3121,3 +3121,4 @@ Fixed critical bug in main module - 456
 Fixed typo in documentation - 15
 Fixed code formatting issues - build 327
 Improved performance optimization
+Updated README with new instructions - build 523
