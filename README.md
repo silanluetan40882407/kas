@@ -1254,3 +1254,4 @@ Updated styling and themes
 Refactored code for better maintainability - v1.1.1
 Fixed critical bug in main module - v4.7.3
 Updated README with new instructions - v2.5.2
+Added input validation - v6.5.4
