@@ -1249,3 +1249,4 @@ Added detailed comments for clarity
 Added new feature for better user experience
 Refactored code for better maintainability - update 46
 Fixed critical bug in main module - update 13
+Updated README with new instructions - 333
