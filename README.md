@@ -1439,3 +1439,4 @@ Improved user interface design - v1.6.4
 Updated styling and themes
 Updated dependencies to latest versions - v2.7.8
 Refactored code for better maintainability - 784
+Updated README with new instructions - v2.3.0
