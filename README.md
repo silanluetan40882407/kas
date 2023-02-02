@@ -1447,3 +1447,4 @@ Improved performance optimization - update 47
 Improved performance optimization - 128
 Updated README with new instructions - 360
 Code cleanup and formatting - build 842
+Added detailed comments for clarity
