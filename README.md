@@ -2001,3 +2001,4 @@ Updated README with new instructions - 394
 Fixed typo in documentation - 375
 Updated styling and themes
 Fixed memory management issue - v7.9.7
+Added detailed comments for clarity
