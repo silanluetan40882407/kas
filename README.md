@@ -1706,3 +1706,4 @@ Updated project documentation - update 49
 Fixed memory management issue
 Fixed code formatting issues - build 334
 Updated version number - v1.6.9
+Updated README with new instructions - build 598
