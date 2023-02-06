@@ -1036,3 +1036,4 @@ Fixed typo in documentation - v5.2.8
 Refactored code for better maintainability
 Updated version number - build 174
 Updated dependencies to latest versions - build 364
+Updated configuration settings - build 276
