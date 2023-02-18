@@ -172,3 +172,4 @@ Updated styling and themes - update 39
 Updated styling and themes
 Fixed typo in documentation - 515
 Updated styling and themes - 493
+Updated configuration settings - v8.3.6
