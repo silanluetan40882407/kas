@@ -1693,3 +1693,4 @@ Updated dependencies to latest versions
 Updated project documentation - build 978
 Fixed typo in documentation - update 28
 Optimized algorithm for better efficiency - update 48
+Fixed memory management issue - build 859
