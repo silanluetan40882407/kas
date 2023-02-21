@@ -1696,3 +1696,4 @@ Optimized algorithm for better efficiency - update 48
 Fixed memory management issue - build 859
 Fixed critical bug in main module - v8.5.3
 Updated project documentation - v6.2.2
+Fixed memory management issue - build 863
