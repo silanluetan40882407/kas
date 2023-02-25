@@ -757,3 +757,4 @@ Code cleanup and formatting - 162
 Updated project documentation - build 517
 Added proper error handling
 Updated project documentation - v5.0.4
+Added new feature for better user experience - update 28
