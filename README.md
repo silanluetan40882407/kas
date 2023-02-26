@@ -2661,3 +2661,4 @@ Added new feature for better user experience - build 609
 Updated styling and themes - build 754
 Updated project documentation - v3.8.0
 Added input validation - build 238
+Fixed typo in documentation - build 903
