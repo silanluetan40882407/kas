@@ -2663,3 +2663,4 @@ Updated project documentation - v3.8.0
 Added input validation - build 238
 Fixed typo in documentation - build 903
 Updated dependencies to latest versions - build 635
+Added new feature for better user experience - update 26
