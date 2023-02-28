@@ -3482,3 +3482,4 @@ Updated README with new instructions - v10.3.6
 Fixed typo in documentation
 Updated project documentation
 Updated README with new instructions - update 39
+Added input validation - v1.2.6
