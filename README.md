@@ -3160,3 +3160,4 @@ Fixed memory management issue - v2.7.0
 Updated styling and themes - 964
 Updated README with new instructions
 Fixed typo in documentation - update 38
+Added proper error handling - v7.1.7
