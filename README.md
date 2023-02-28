@@ -3479,3 +3479,4 @@ Fixed code formatting issues - v2.2.2
 Added input validation
 Refactored code for better maintainability - v10.8.0
 Updated README with new instructions - v10.3.6
+Fixed typo in documentation
