@@ -733,3 +733,4 @@ Updated project documentation - update 20
 Added detailed comments for clarity - build 569
 Updated dependencies to latest versions - update 17
 Updated styling and themes - 817
+Updated README with new instructions - update 10
