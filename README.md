@@ -329,3 +329,4 @@ Updated README with new instructions - 638
 Improved user interface design - update 8
 Updated README with new instructions - 327
 Updated configuration settings - build 656
+Fixed code formatting issues - 552
