@@ -592,3 +592,4 @@ Improved user interface design - update 18
 Added comprehensive test coverage - build 691
 Added new feature for better user experience - update 43
 Optimized algorithm for better efficiency - v3.0.9
+Updated README with new instructions
