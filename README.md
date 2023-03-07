@@ -594,3 +594,4 @@ Added new feature for better user experience - update 43
 Optimized algorithm for better efficiency - v3.0.9
 Updated README with new instructions
 Code cleanup and formatting - 5
+Added input validation
