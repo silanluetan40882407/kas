@@ -3031,3 +3031,4 @@ Optimized algorithm for better efficiency - build 138
 Updated configuration settings - 589
 Improved user interface design - build 225
 Code cleanup and formatting - v8.3.8
+Added detailed comments for clarity - v4.2.3
