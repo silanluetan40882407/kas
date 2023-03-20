@@ -3335,3 +3335,4 @@ Optimized algorithm for better efficiency - v5.2.1
 Fixed critical bug in main module
 Improved performance optimization
 Added new feature for better user experience - 573
+Fixed memory management issue - build 712
