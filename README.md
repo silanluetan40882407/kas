@@ -2051,3 +2051,4 @@ Refactored code for better maintainability - build 631
 Updated README with new instructions - 104
 Updated README with new instructions - build 839
 Updated version number - build 629
+Updated README with new instructions - build 927
