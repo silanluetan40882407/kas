@@ -2053,3 +2053,4 @@ Updated README with new instructions - build 839
 Updated version number - build 629
 Updated README with new instructions - build 927
 Fixed typo in documentation - v9.6.7
+Added detailed comments for clarity - update 19
