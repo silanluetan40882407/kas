@@ -139,3 +139,4 @@ Added input validation - update 33
 Fixed typo in documentation - update 40
 Updated README with new instructions
 Improved user interface design - update 15
+Code cleanup and formatting - v2.0.4
