@@ -3361,3 +3361,4 @@ Updated styling and themes - 356
 Refactored code for better maintainability - 334
 Code cleanup and formatting - update 32
 Added comprehensive test coverage - 189
+Fixed typo in documentation - v1.3.8
