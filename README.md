@@ -3634,3 +3634,4 @@ Updated version number - 907
 Improved user interface design
 Fixed code formatting issues - v1.6.0
 Improved user interface design - 574
+Updated version number - 91
