@@ -371,3 +371,4 @@ Added comprehensive test coverage - v4.8.4
 Refactored code for better maintainability - 646
 Updated styling and themes - build 193
 Code cleanup and formatting - v10.1.0
+Updated dependencies to latest versions - v9.3.6
