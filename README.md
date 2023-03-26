@@ -1431,3 +1431,4 @@ Updated configuration settings - build 630
 Fixed memory management issue
 Improved performance optimization - v3.4.7
 Code cleanup and formatting - v2.9.5
+Updated README with new instructions
