@@ -2615,3 +2615,4 @@ Added input validation - build 229
 Updated version number
 Updated project documentation - v7.2.7
 Fixed code formatting issues - update 49
+Added detailed comments for clarity - 717
