@@ -2613,3 +2613,4 @@ Updated dependencies to latest versions - build 862
 Refactored code for better maintainability - build 708
 Added input validation - build 229
 Updated version number
+Updated project documentation - v7.2.7
