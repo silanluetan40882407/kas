@@ -2616,3 +2616,4 @@ Updated version number
 Updated project documentation - v7.2.7
 Fixed code formatting issues - update 49
 Added detailed comments for clarity - 717
+Fixed memory management issue - 260
