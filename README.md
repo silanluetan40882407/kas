@@ -1428,3 +1428,4 @@ Updated styling and themes - v10.2.7
 Updated styling and themes
 Fixed critical bug in main module - v8.5.6
 Updated configuration settings - build 630
+Fixed memory management issue
