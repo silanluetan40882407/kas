@@ -3222,3 +3222,4 @@ Updated styling and themes - v5.4.0
 Fixed critical bug in main module - build 292
 Code cleanup and formatting - update 8
 Fixed critical bug in main module - update 16
+Added proper error handling - build 339
