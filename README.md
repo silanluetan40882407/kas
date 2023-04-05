@@ -3579,3 +3579,4 @@ Updated README with new instructions - update 23
 Added detailed comments for clarity - build 297
 Fixed typo in documentation - 387
 Added proper error handling - 668
+Updated version number - v4.1.6
