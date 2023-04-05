@@ -3583,3 +3583,4 @@ Updated version number - v4.1.6
 Fixed code formatting issues - build 970
 Fixed code formatting issues - v7.6.6
 Fixed typo in documentation - v7.0.9
+Code cleanup and formatting - build 643
