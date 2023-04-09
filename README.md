@@ -2379,3 +2379,4 @@ Fixed code formatting issues - v1.0.2
 Fixed typo in documentation - 165
 Updated version number - v10.3.3
 Refactored code for better maintainability - update 25
+Updated configuration settings
