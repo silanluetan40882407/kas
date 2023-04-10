@@ -3395,3 +3395,4 @@ Updated project documentation - v3.3.4
 Added comprehensive test coverage - build 386
 Updated README with new instructions - build 758
 Fixed typo in documentation - build 120
+Fixed critical bug in main module - v8.7.4
