@@ -53,3 +53,4 @@ Added new feature for better user experience
 Updated project documentation - update 7
 Fixed memory management issue - 561
 Refactored code for better maintainability - v10.6.7
+Updated dependencies to latest versions - v10.7.8
