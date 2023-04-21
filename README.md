@@ -1072,3 +1072,4 @@ Fixed typo in documentation - v2.1.0
 Refactored code for better maintainability - build 184
 Fixed typo in documentation - v2.8.1
 Refactored code for better maintainability - v8.3.8
+Added detailed comments for clarity - v5.1.9
