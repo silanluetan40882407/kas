@@ -1070,3 +1070,4 @@ Added input validation - update 43
 Updated project documentation - build 827
 Fixed typo in documentation - v2.1.0
 Refactored code for better maintainability - build 184
+Fixed typo in documentation - v2.8.1
