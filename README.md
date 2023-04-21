@@ -1068,3 +1068,4 @@ Updated version number - 376
 Improved performance optimization - update 2
 Added input validation - update 43
 Updated project documentation - build 827
+Fixed typo in documentation - v2.1.0
