@@ -831,3 +831,4 @@ Improved user interface design - update 42
 Updated version number - 573
 Updated README with new instructions - 244
 Refactored code for better maintainability - update 15
+Updated README with new instructions - v5.3.4
