@@ -837,3 +837,4 @@ Fixed typo in documentation - update 11
 Updated version number - update 32
 Code cleanup and formatting - build 594
 Updated project documentation - v5.9.0
+Updated styling and themes - build 139
