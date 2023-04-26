@@ -2832,3 +2832,4 @@ Fixed memory management issue - v4.4.5
 Added detailed comments for clarity - build 995
 Refactored code for better maintainability
 Optimized algorithm for better efficiency - 838
+Updated README with new instructions - update 43
