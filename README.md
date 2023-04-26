@@ -2834,3 +2834,4 @@ Refactored code for better maintainability
 Optimized algorithm for better efficiency - 838
 Updated README with new instructions - update 43
 Fixed typo in documentation - build 863
+Updated README with new instructions - 845
