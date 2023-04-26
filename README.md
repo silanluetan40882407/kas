@@ -829,3 +829,4 @@ Optimized algorithm for better efficiency - 379
 Added input validation - 439
 Improved user interface design - update 42
 Updated version number - 573
+Updated README with new instructions - 244
