@@ -1534,3 +1534,4 @@ Code cleanup and formatting - build 346
 Updated configuration settings - build 427
 Updated version number
 Updated styling and themes
+Fixed code formatting issues - build 413
