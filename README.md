@@ -476,3 +476,4 @@ Improved performance optimization - 197
 Updated styling and themes - update 24
 Fixed memory management issue
 Added new feature for better user experience
+Fixed memory management issue - build 840
