@@ -477,3 +477,4 @@ Updated styling and themes - update 24
 Fixed memory management issue
 Added new feature for better user experience
 Fixed memory management issue - build 840
+Fixed code formatting issues - 544
