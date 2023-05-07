@@ -2479,3 +2479,4 @@ Updated version number
 Updated styling and themes - update 7
 Updated version number - update 8
 Updated styling and themes - 565
+Fixed memory management issue - 199
