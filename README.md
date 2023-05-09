@@ -3962,3 +3962,4 @@ Added comprehensive test coverage
 Updated README with new instructions - v3.4.3
 Updated README with new instructions - build 186
 Updated project documentation - v2.3.1
+Updated README with new instructions
