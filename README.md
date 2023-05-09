@@ -3961,3 +3961,4 @@ Updated dependencies to latest versions - build 989
 Added comprehensive test coverage
 Updated README with new instructions - v3.4.3
 Updated README with new instructions - build 186
+Updated project documentation - v2.3.1
