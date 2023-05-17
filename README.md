@@ -164,3 +164,4 @@ Updated dependencies to latest versions - build 337
 Improved performance optimization - 922
 Updated styling and themes
 Fixed typo in documentation - build 816
+Fixed memory management issue - update 44
