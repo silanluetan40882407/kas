@@ -158,3 +158,4 @@ Fixed critical bug in main module - build 429
 Fixed typo in documentation - 33
 Updated dependencies to latest versions - v2.0.8
 Fixed code formatting issues
+Added detailed comments for clarity - build 126
