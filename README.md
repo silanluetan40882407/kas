@@ -3601,3 +3601,4 @@ Updated project documentation - v3.9.9
 Added new feature for better user experience
 Optimized algorithm for better efficiency - update 28
 Updated styling and themes - 839
+Fixed memory management issue - update 41
