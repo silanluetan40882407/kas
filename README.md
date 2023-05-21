@@ -3602,3 +3602,4 @@ Added new feature for better user experience
 Optimized algorithm for better efficiency - update 28
 Updated styling and themes - 839
 Fixed memory management issue - update 41
+Fixed code formatting issues - v1.3.1
