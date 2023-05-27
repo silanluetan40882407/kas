@@ -3405,3 +3405,4 @@ Code cleanup and formatting - update 4
 Updated project documentation
 Code cleanup and formatting - build 369
 Updated version number - 642
+Improved user interface design - v3.0.6
