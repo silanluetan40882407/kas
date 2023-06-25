@@ -1628,3 +1628,4 @@ Updated version number
 Fixed typo in documentation - build 220
 Fixed memory management issue - build 272
 Code cleanup and formatting - update 42
+Fixed memory management issue - build 157
