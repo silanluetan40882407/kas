@@ -2061,3 +2061,4 @@ Improved user interface design
 Updated README with new instructions - v1.9.8
 Added comprehensive test coverage - 995
 Updated dependencies to latest versions - build 280
+Updated configuration settings - v8.0.7
