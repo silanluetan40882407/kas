@@ -2058,3 +2058,4 @@ Improved user interface design - 340
 Fixed code formatting issues - 358
 Updated version number - 849
 Improved user interface design
+Updated README with new instructions - v1.9.8
