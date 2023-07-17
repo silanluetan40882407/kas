@@ -3115,3 +3115,4 @@ Updated configuration settings - update 18
 Updated configuration settings - v2.4.2
 Improved performance optimization - build 569
 Refactored code for better maintainability - 180
+Improved user interface design - v2.9.8
