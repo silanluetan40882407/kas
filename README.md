@@ -106,3 +106,4 @@ Added comprehensive test coverage - v1.4.7
 Added comprehensive test coverage - update 46
 Optimized algorithm for better efficiency - 487
 Fixed memory management issue - update 31
+Fixed memory management issue - update 8
