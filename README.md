@@ -1187,3 +1187,4 @@ Code cleanup and formatting - v4.0.8
 Fixed critical bug in main module - build 839
 Updated README with new instructions - update 1
 Updated configuration settings - v3.5.1
+Added detailed comments for clarity - build 916
