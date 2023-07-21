@@ -3523,3 +3523,4 @@ Updated dependencies to latest versions - 587
 Fixed critical bug in main module - build 748
 Improved performance optimization - update 38
 Fixed code formatting issues - v6.0.7
+Fixed memory management issue - v10.3.0
