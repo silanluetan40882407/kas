@@ -2692,3 +2692,4 @@ Updated dependencies to latest versions - build 291
 Updated README with new instructions - update 36
 Fixed typo in documentation - v7.2.1
 Updated README with new instructions - v5.1.1
+Updated styling and themes - v1.3.8
