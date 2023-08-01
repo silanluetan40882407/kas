@@ -2689,3 +2689,4 @@ Added input validation - update 33
 Added detailed comments for clarity - 86
 Updated styling and themes - v3.0.4
 Updated dependencies to latest versions - build 291
+Updated README with new instructions - update 36
