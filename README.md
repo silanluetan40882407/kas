@@ -2908,3 +2908,4 @@ Updated project documentation - v10.2.6
 Updated project documentation
 Fixed memory management issue - 844
 Updated dependencies to latest versions - build 252
+Updated configuration settings - build 487
