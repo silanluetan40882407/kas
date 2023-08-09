@@ -3789,3 +3789,4 @@ Added input validation - 977
 Updated dependencies to latest versions
 Updated version number - 142
 Added detailed comments for clarity - v5.9.6
+Fixed typo in documentation - v4.1.9
