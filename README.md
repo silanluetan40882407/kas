@@ -2157,3 +2157,4 @@ Fixed typo in documentation - 885
 Added new feature for better user experience - 370
 Code cleanup and formatting - update 7
 Updated README with new instructions
+Added detailed comments for clarity - update 36
