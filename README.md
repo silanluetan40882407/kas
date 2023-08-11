@@ -2149,3 +2149,4 @@ Updated README with new instructions - v5.3.1
 Updated configuration settings
 Updated configuration settings - build 235
 Fixed code formatting issues - 510
+Improved user interface design - build 671
