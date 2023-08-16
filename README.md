@@ -460,3 +460,4 @@ Fixed code formatting issues - build 465
 Fixed typo in documentation - update 14
 Fixed typo in documentation
 Updated configuration settings
+Fixed typo in documentation - v3.5.8
