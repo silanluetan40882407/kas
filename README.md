@@ -458,3 +458,4 @@ Fixed typo in documentation - v9.3.9
 Updated dependencies to latest versions - update 46
 Fixed code formatting issues - build 465
 Fixed typo in documentation - update 14
+Fixed typo in documentation
