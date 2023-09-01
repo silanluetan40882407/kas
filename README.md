@@ -1367,3 +1367,4 @@ Code cleanup and formatting - v7.7.1
 Fixed critical bug in main module - v4.4.1
 Added new feature for better user experience - 474
 Optimized algorithm for better efficiency - update 26
+Fixed critical bug in main module - v2.6.9
