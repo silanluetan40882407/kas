@@ -1364,3 +1364,4 @@ Added proper error handling
 Updated version number - 483
 Added new feature for better user experience - update 47
 Code cleanup and formatting - v7.7.1
+Fixed critical bug in main module - v4.4.1
