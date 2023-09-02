@@ -3013,3 +3013,4 @@ Updated configuration settings - build 634
 Fixed typo in documentation - v7.5.2
 Updated styling and themes - update 28
 Added comprehensive test coverage - v4.2.9
+Code cleanup and formatting - v5.8.5
