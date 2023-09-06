@@ -3906,3 +3906,4 @@ Updated styling and themes - build 700
 Updated project documentation
 Updated README with new instructions - v8.4.1
 Added comprehensive test coverage - v7.2.7
+Updated README with new instructions - update 23
