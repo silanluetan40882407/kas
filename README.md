@@ -2102,3 +2102,4 @@ Fixed critical bug in main module - 982
 Added detailed comments for clarity - update 15
 Updated dependencies to latest versions - update 29
 Updated project documentation - 299
+Updated README with new instructions - update 2
