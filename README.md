@@ -2099,3 +2099,4 @@ Code cleanup and formatting - v1.4.0
 Fixed critical bug in main module
 Updated README with new instructions - build 419
 Fixed critical bug in main module - 982
+Added detailed comments for clarity - update 15
