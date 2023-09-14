@@ -517,3 +517,4 @@ Code cleanup and formatting - update 44
 Updated version number - 235
 Updated configuration settings - build 785
 Refactored code for better maintainability - v5.2.3
+Fixed code formatting issues - build 792
