@@ -510,3 +510,4 @@ Updated dependencies to latest versions - 664
 Updated version number - build 606
 Fixed code formatting issues - v4.8.8
 Code cleanup and formatting - v1.4.2
+Fixed memory management issue - 381
