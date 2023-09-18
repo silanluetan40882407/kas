@@ -2515,3 +2515,4 @@ Optimized algorithm for better efficiency - update 45
 Improved performance optimization - update 17
 Updated dependencies to latest versions - build 977
 Updated project documentation
+Added detailed comments for clarity - build 878
