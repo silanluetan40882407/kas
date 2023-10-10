@@ -1991,3 +1991,4 @@ Fixed critical bug in main module - update 30
 Fixed typo in documentation - build 326
 Updated project documentation - build 235
 Updated version number
+Added input validation - build 810
