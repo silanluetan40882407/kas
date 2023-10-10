@@ -1992,3 +1992,4 @@ Fixed typo in documentation - build 326
 Updated project documentation - build 235
 Updated version number
 Added input validation - build 810
+Added proper error handling - build 478
