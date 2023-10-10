@@ -1997,3 +1997,4 @@ Code cleanup and formatting - build 216
 Updated project documentation
 Added comprehensive test coverage - build 112
 Optimized algorithm for better efficiency - update 23
+Updated README with new instructions - 394
