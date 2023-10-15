@@ -491,3 +491,4 @@ Improved performance optimization
 Updated styling and themes - 113
 Updated version number - 441
 Updated README with new instructions - build 439
+Refactored code for better maintainability
