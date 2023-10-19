@@ -3410,3 +3410,4 @@ Fixed code formatting issues
 Fixed critical bug in main module
 Fixed code formatting issues - build 389
 Updated configuration settings - 950
+Updated README with new instructions - 304
