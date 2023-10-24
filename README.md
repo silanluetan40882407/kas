@@ -1952,3 +1952,4 @@ Updated styling and themes - build 179
 Fixed code formatting issues - v2.1.3
 Fixed critical bug in main module - 767
 Refactored code for better maintainability - v5.7.1
+Updated version number - v2.4.0
