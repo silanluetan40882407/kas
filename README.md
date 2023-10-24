@@ -2301,3 +2301,4 @@ Code cleanup and formatting
 Added proper error handling - 695
 Fixed code formatting issues - build 993
 Fixed typo in documentation
+Updated README with new instructions
