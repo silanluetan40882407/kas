@@ -1956,3 +1956,4 @@ Updated version number - v2.4.0
 Added proper error handling - build 572
 Code cleanup and formatting - update 24
 Updated version number
+Updated version number - v8.1.8
