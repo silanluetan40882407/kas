@@ -773,3 +773,4 @@ Fixed typo in documentation - build 184
 Code cleanup and formatting - 725
 Added new feature for better user experience - update 36
 Optimized algorithm for better efficiency - update 40
+Updated project documentation - v1.6.8
