@@ -775,3 +775,4 @@ Added new feature for better user experience - update 36
 Optimized algorithm for better efficiency - update 40
 Updated project documentation - v1.6.8
 Added new feature for better user experience - update 24
+Added new feature for better user experience - update 26
