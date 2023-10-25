@@ -2127,3 +2127,4 @@ Updated dependencies to latest versions - update 38
 Updated version number - update 24
 Updated dependencies to latest versions - 749
 Fixed code formatting issues - build 891
+Fixed typo in documentation - build 734
