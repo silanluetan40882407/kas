@@ -3197,3 +3197,4 @@ Updated styling and themes
 Fixed critical bug in main module - v4.7.3
 Fixed typo in documentation - update 11
 Updated dependencies to latest versions - 499
+Fixed critical bug in main module - update 1
