@@ -3592,3 +3592,4 @@ Refactored code for better maintainability - v9.0.8
 Code cleanup and formatting - 566
 Added comprehensive test coverage
 Fixed memory management issue - update 47
+Added detailed comments for clarity - update 36
