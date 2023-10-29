@@ -3189,3 +3189,4 @@ Updated configuration settings
 Added input validation
 Fixed typo in documentation - build 192
 Added new feature for better user experience - update 23
+Added detailed comments for clarity - v8.2.4
