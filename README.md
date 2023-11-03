@@ -2317,3 +2317,4 @@ Updated styling and themes - v7.7.8
 Updated version number
 Added new feature for better user experience - 440
 Updated dependencies to latest versions - v1.4.4
+Fixed typo in documentation - update 47
