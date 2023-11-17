@@ -241,3 +241,4 @@ Updated styling and themes
 Updated version number - 694
 Updated README with new instructions
 Fixed typo in documentation - update 16
+Improved user interface design - 397
