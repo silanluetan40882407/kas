@@ -239,3 +239,4 @@ Improved performance optimization
 Updated configuration settings
 Updated styling and themes
 Updated version number - 694
+Updated README with new instructions
