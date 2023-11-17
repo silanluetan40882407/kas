@@ -243,3 +243,4 @@ Updated README with new instructions
 Fixed typo in documentation - update 16
 Improved user interface design - 397
 Updated version number - v5.7.4
+Refactored code for better maintainability - update 10
