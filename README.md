@@ -247,3 +247,4 @@ Refactored code for better maintainability - update 10
 Refactored code for better maintainability
 Fixed critical bug in main module - 463
 Updated project documentation - build 102
+Updated README with new instructions - build 764
