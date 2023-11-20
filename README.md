@@ -63,3 +63,4 @@ Added new feature for better user experience
 Fixed memory management issue - 93
 Code cleanup and formatting - update 21
 Fixed memory management issue - update 23
+Updated README with new instructions
