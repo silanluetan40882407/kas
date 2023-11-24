@@ -1293,3 +1293,4 @@ Updated styling and themes - 35
 Updated dependencies to latest versions - build 347
 Fixed critical bug in main module - 727
 Fixed critical bug in main module - v4.0.9
+Updated dependencies to latest versions - v7.8.8
