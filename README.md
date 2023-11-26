@@ -3093,3 +3093,4 @@ Fixed critical bug in main module - build 171
 Added new feature for better user experience - build 517
 Refactored code for better maintainability
 Code cleanup and formatting - update 24
+Updated README with new instructions - build 232
