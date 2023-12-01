@@ -3773,3 +3773,4 @@ Updated dependencies to latest versions - build 996
 Fixed code formatting issues - v3.6.2
 Refactored code for better maintainability - update 9
 Fixed memory management issue - 369
+Updated version number
