@@ -3682,3 +3682,4 @@ Improved user interface design - 925
 Updated project documentation
 Code cleanup and formatting - v3.6.2
 Updated dependencies to latest versions - build 656
+Fixed critical bug in main module - v3.5.8
