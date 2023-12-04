@@ -3684,3 +3684,4 @@ Code cleanup and formatting - v3.6.2
 Updated dependencies to latest versions - build 656
 Fixed critical bug in main module - v3.5.8
 Updated README with new instructions
+Fixed typo in documentation - v5.0.3
