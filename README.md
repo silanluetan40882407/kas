@@ -3685,3 +3685,4 @@ Updated dependencies to latest versions - build 656
 Fixed critical bug in main module - v3.5.8
 Updated README with new instructions
 Fixed typo in documentation - v5.0.3
+Updated styling and themes - update 5
