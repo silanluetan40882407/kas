@@ -2995,3 +2995,4 @@ Fixed code formatting issues - 306
 Optimized algorithm for better efficiency - 363
 Updated version number
 Updated README with new instructions - build 937
+Improved user interface design
