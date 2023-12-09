@@ -1504,3 +1504,4 @@ Updated dependencies to latest versions - v2.0.4
 Optimized algorithm for better efficiency
 Refactored code for better maintainability - build 895
 Optimized algorithm for better efficiency
+Updated version number - v2.5.7
