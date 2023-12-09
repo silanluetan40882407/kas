@@ -1498,3 +1498,4 @@ Updated styling and themes - v1.5.0
 Added new feature for better user experience
 Improved user interface design - v7.4.9
 Optimized algorithm for better efficiency - build 148
+Improved user interface design - 512
