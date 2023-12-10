@@ -3310,3 +3310,4 @@ Added input validation - v8.7.4
 Fixed code formatting issues - update 24
 Fixed critical bug in main module - build 226
 Refactored code for better maintainability - build 362
+Fixed typo in documentation
