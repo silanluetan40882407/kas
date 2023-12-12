@@ -3174,3 +3174,4 @@ Optimized algorithm for better efficiency - 77
 Improved user interface design - 687
 Updated dependencies to latest versions - update 17
 Updated configuration settings - 304
+Added input validation - v5.3.1
