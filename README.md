@@ -2579,3 +2579,4 @@ Improved user interface design - update 17
 Added new feature for better user experience - build 734
 Improved performance optimization
 Improved user interface design
+Updated configuration settings - v2.5.8
