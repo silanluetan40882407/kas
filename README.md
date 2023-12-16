@@ -2418,3 +2418,4 @@ Improved user interface design - v8.6.6
 Added input validation - 677
 Updated configuration settings - v7.8.6
 Added new feature for better user experience - build 977
+Updated README with new instructions - update 20
