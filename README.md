@@ -2426,3 +2426,4 @@ Fixed typo in documentation - v3.1.0
 Added input validation - 279
 Added comprehensive test coverage - build 779
 Updated version number - v7.3.5
+Added proper error handling - v10.9.0
