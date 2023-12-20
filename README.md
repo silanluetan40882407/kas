@@ -1743,3 +1743,4 @@ Fixed memory management issue - v5.3.6
 Updated dependencies to latest versions - build 283
 Refactored code for better maintainability - 688
 Updated version number
+Updated version number - v5.8.8
