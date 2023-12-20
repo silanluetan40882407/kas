@@ -1744,3 +1744,4 @@ Updated dependencies to latest versions - build 283
 Refactored code for better maintainability - 688
 Updated version number
 Updated version number - v5.8.8
+Updated configuration settings
