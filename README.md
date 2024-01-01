@@ -2333,3 +2333,4 @@ Updated dependencies to latest versions - update 11
 Updated project documentation
 Refactored code for better maintainability - v5.2.9
 Updated project documentation - v10.7.3
+Fixed typo in documentation - v10.4.2
