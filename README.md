@@ -2328,3 +2328,4 @@ Updated README with new instructions - v5.0.5
 Added input validation - v9.3.7
 Updated dependencies to latest versions - v8.3.9
 Added input validation
+Updated project documentation - update 21
