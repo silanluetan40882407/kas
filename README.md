@@ -2116,3 +2116,4 @@ Added detailed comments for clarity - build 757
 Updated dependencies to latest versions - build 677
 Fixed code formatting issues - 77
 Added proper error handling
+Fixed memory management issue - v3.1.6
