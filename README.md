@@ -2207,3 +2207,4 @@ Fixed code formatting issues - v8.8.1
 Updated README with new instructions - 907
 Fixed code formatting issues
 Added comprehensive test coverage - update 35
+Added input validation - v1.9.1
