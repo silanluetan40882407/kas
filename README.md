@@ -3575,3 +3575,4 @@ Added new feature for better user experience - update 33
 Fixed typo in documentation - build 709
 Fixed typo in documentation - update 21
 Fixed memory management issue - 258
+Updated README with new instructions - update 23
