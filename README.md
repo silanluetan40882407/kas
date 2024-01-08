@@ -3576,3 +3576,4 @@ Fixed typo in documentation - build 709
 Fixed typo in documentation - update 21
 Fixed memory management issue - 258
 Updated README with new instructions - update 23
+Added detailed comments for clarity - build 297
