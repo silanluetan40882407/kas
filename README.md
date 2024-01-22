@@ -3255,3 +3255,4 @@ Code cleanup and formatting - v10.5.3
 Updated version number - build 258
 Updated configuration settings - update 3
 Updated README with new instructions
+Fixed critical bug in main module - 323
