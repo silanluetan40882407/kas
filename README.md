@@ -3249,3 +3249,4 @@ Updated styling and themes
 Added new feature for better user experience - v4.1.8
 Improved user interface design - update 30
 Added new feature for better user experience - build 973
+Fixed memory management issue - v7.5.4
