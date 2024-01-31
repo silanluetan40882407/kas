@@ -2642,3 +2642,4 @@ Fixed code formatting issues - update 25
 Fixed critical bug in main module - build 464
 Updated project documentation
 Updated dependencies to latest versions - update 8
+Updated README with new instructions - v6.0.7
