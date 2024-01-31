@@ -2644,3 +2644,4 @@ Updated project documentation
 Updated dependencies to latest versions - update 8
 Updated README with new instructions - v6.0.7
 Updated project documentation - build 831
+Added input validation - update 46
