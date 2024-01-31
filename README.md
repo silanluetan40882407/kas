@@ -2646,3 +2646,4 @@ Updated README with new instructions - v6.0.7
 Updated project documentation - build 831
 Added input validation - update 46
 Code cleanup and formatting - build 221
+Updated README with new instructions - v2.6.6
