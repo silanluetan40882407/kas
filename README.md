@@ -1023,3 +1023,4 @@ Fixed typo in documentation
 Updated version number - v3.0.7
 Updated styling and themes - 354
 Updated styling and themes - v2.7.5
+Fixed critical bug in main module - 179
