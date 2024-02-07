@@ -1021,3 +1021,4 @@ Refactored code for better maintainability - v9.1.6
 Updated styling and themes - 177
 Fixed typo in documentation
 Updated version number - v3.0.7
+Updated styling and themes - 354
