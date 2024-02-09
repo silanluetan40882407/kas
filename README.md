@@ -936,3 +936,4 @@ Fixed critical bug in main module
 Fixed critical bug in main module - 680
 Fixed memory management issue - build 356
 Fixed critical bug in main module
+Updated version number - v7.4.9
