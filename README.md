@@ -1227,3 +1227,4 @@ Updated version number
 Code cleanup and formatting - build 565
 Code cleanup and formatting - v1.6.6
 Added input validation - 914
+Updated project documentation - 394
