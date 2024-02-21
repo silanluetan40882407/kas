@@ -2755,3 +2755,4 @@ Updated version number - v3.1.5
 Code cleanup and formatting - v7.1.5
 Added detailed comments for clarity - 499
 Added new feature for better user experience - build 984
+Added proper error handling
