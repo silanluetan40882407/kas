@@ -2753,3 +2753,4 @@ Refactored code for better maintainability - build 900
 Updated project documentation - v6.4.7
 Updated version number - v3.1.5
 Code cleanup and formatting - v7.1.5
+Added detailed comments for clarity - 499
