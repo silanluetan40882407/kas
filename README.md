@@ -1761,3 +1761,4 @@ Added input validation - v4.3.9
 Fixed memory management issue - v6.5.7
 Added detailed comments for clarity - v5.5.4
 Added new feature for better user experience - update 22
+Fixed code formatting issues - v8.1.2
