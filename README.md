@@ -3977,3 +3977,4 @@ Optimized algorithm for better efficiency - 418
 Added comprehensive test coverage - build 553
 Fixed typo in documentation - update 12
 Optimized algorithm for better efficiency - v9.1.2
+Updated README with new instructions - 600
