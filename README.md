@@ -1758,3 +1758,4 @@ Updated configuration settings - 461
 Updated version number - 985
 Updated README with new instructions - 16
 Added input validation - v4.3.9
+Fixed memory management issue - v6.5.7
