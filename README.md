@@ -761,3 +761,4 @@ Added new feature for better user experience - update 28
 Refactored code for better maintainability - v4.0.4
 Updated version number
 Updated styling and themes - v6.5.4
+Added input validation - update 25
