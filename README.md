@@ -759,3 +759,4 @@ Added proper error handling
 Updated project documentation - v5.0.4
 Added new feature for better user experience - update 28
 Refactored code for better maintainability - v4.0.4
+Updated version number
