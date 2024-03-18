@@ -762,3 +762,4 @@ Refactored code for better maintainability - v4.0.4
 Updated version number
 Updated styling and themes - v6.5.4
 Added input validation - update 25
+Added input validation - 569
