@@ -2097,3 +2097,4 @@ Added input validation - build 953
 Fixed typo in documentation - build 190
 Code cleanup and formatting - v1.4.0
 Fixed critical bug in main module
+Updated README with new instructions - build 419
