@@ -2136,3 +2136,4 @@ Optimized algorithm for better efficiency - build 560
 Optimized algorithm for better efficiency - v7.6.4
 Updated README with new instructions - v9.9.5
 Fixed memory management issue - build 184
+Fixed memory management issue - update 41
