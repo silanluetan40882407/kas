@@ -2130,3 +2130,4 @@ Fixed code formatting issues - build 891
 Fixed typo in documentation - build 734
 Updated README with new instructions - v9.0.5
 Updated README with new instructions - build 831
+Updated configuration settings - update 20
