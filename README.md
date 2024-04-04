@@ -214,3 +214,4 @@ Fixed code formatting issues - 5
 Fixed code formatting issues
 Code cleanup and formatting - build 832
 Added new feature for better user experience - build 264
+Added detailed comments for clarity - 69
