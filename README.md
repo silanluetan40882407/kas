@@ -1375,3 +1375,4 @@ Updated version number - build 711
 Updated styling and themes - build 657
 Fixed code formatting issues
 Added comprehensive test coverage - update 8
+Fixed typo in documentation - v4.5.3
