@@ -1373,3 +1373,4 @@ Updated README with new instructions
 Updated version number - build 911
 Updated version number - build 711
 Updated styling and themes - build 657
+Fixed code formatting issues
