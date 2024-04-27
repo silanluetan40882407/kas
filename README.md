@@ -1475,3 +1475,4 @@ Improved performance optimization - build 692
 Fixed typo in documentation - 917
 Updated project documentation - update 26
 Fixed critical bug in main module - build 380
+Added input validation - v2.7.3
