@@ -1978,3 +1978,4 @@ Updated dependencies to latest versions - 130
 Optimized algorithm for better efficiency - build 861
 Code cleanup and formatting - build 969
 Added input validation - 577
+Added detailed comments for clarity - v10.6.6
