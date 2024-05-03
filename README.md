@@ -580,3 +580,4 @@ Added input validation
 Added detailed comments for clarity - v3.5.8
 Added detailed comments for clarity - 228
 Updated configuration settings - 95
+Fixed critical bug in main module - v10.6.1
