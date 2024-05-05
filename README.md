@@ -2181,3 +2181,4 @@ Updated version number - update 15
 Fixed code formatting issues - build 212
 Optimized algorithm for better efficiency - build 263
 Fixed memory management issue - update 48
+Updated README with new instructions - build 980
