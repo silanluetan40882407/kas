@@ -2500,3 +2500,4 @@ Improved performance optimization - build 170
 Updated configuration settings - build 409
 Added input validation - v6.8.0
 Added new feature for better user experience - update 28
+Updated README with new instructions
