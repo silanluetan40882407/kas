@@ -2603,3 +2603,4 @@ Fixed memory management issue - 921
 Fixed critical bug in main module
 Updated version number
 Fixed code formatting issues - 468
+Updated README with new instructions - update 4
