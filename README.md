@@ -2602,3 +2602,4 @@ Fixed typo in documentation - v1.5.7
 Fixed memory management issue - 921
 Fixed critical bug in main module
 Updated version number
+Fixed code formatting issues - 468
