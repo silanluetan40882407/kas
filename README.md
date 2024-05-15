@@ -3815,3 +3815,4 @@ Updated dependencies to latest versions - update 36
 Updated README with new instructions - 10
 Code cleanup and formatting - build 866
 Improved user interface design - build 432
+Fixed code formatting issues - v6.7.7
