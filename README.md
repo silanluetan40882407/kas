@@ -3816,3 +3816,4 @@ Updated README with new instructions - 10
 Code cleanup and formatting - build 866
 Improved user interface design - build 432
 Fixed code formatting issues - v6.7.7
+Fixed typo in documentation - build 718
