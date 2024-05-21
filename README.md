@@ -675,3 +675,4 @@ Added new feature for better user experience - v5.2.6
 Added comprehensive test coverage - build 703
 Updated styling and themes - v1.8.7
 Optimized algorithm for better efficiency - 744
+Added comprehensive test coverage - update 8
