@@ -2633,3 +2633,4 @@ Fixed memory management issue
 Fixed typo in documentation - update 9
 Updated configuration settings - 620
 Fixed code formatting issues
+Added proper error handling - v3.6.0
