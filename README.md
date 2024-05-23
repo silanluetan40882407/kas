@@ -2630,3 +2630,4 @@ Updated dependencies to latest versions - update 40
 Code cleanup and formatting - build 853
 Updated dependencies to latest versions - update 8
 Fixed memory management issue
+Fixed typo in documentation - update 9
