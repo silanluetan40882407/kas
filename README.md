@@ -2637,3 +2637,4 @@ Added proper error handling - v3.6.0
 Added new feature for better user experience - 938
 Added new feature for better user experience - 91
 Updated styling and themes - v9.6.0
+Fixed typo in documentation
