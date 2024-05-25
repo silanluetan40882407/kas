@@ -3447,3 +3447,4 @@ Updated styling and themes - v1.0.3
 Added input validation - v5.5.3
 Fixed critical bug in main module - 189
 Added comprehensive test coverage
+Updated README with new instructions - v1.4.1
