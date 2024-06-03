@@ -702,3 +702,4 @@ Updated project documentation - update 50
 Updated README with new instructions - 1000
 Added proper error handling - 289
 Fixed critical bug in main module - build 341
+Fixed critical bug in main module - v8.3.1
