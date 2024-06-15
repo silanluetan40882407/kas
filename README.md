@@ -2017,3 +2017,4 @@ Added new feature for better user experience - v7.8.3
 Fixed memory management issue
 Added comprehensive test coverage - 543
 Updated configuration settings - build 787
+Updated README with new instructions - update 8
