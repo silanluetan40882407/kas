@@ -1883,3 +1883,4 @@ Added input validation
 Added new feature for better user experience - update 23
 Refactored code for better maintainability - v2.6.6
 Updated version number - 250
+Added detailed comments for clarity - 723
