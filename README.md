@@ -1561,3 +1561,4 @@ Updated version number - build 163
 Updated configuration settings
 Updated styling and themes - build 870
 Updated configuration settings - update 47
+Added input validation - update 41
