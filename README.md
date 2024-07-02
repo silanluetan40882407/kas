@@ -20,3 +20,4 @@ Fixed code formatting issues
 Added detailed comments for clarity - build 236
 Code cleanup and formatting - 19
 Fixed code formatting issues - v10.3.9
+Updated README with new instructions - v7.1.0
