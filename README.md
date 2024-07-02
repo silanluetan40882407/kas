@@ -27,3 +27,4 @@ Fixed memory management issue - v8.1.4
 Fixed memory management issue - v1.3.1
 Updated dependencies to latest versions - 661
 Updated configuration settings - build 336
+Updated README with new instructions - 676
