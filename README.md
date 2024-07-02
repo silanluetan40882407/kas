@@ -23,3 +23,4 @@ Fixed code formatting issues - v10.3.9
 Updated README with new instructions - v7.1.0
 Improved performance optimization - build 174
 Improved performance optimization - 63
+Fixed memory management issue - v8.1.4
