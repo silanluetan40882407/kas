@@ -25,3 +25,4 @@ Improved performance optimization - build 174
 Improved performance optimization - 63
 Fixed memory management issue - v8.1.4
 Fixed memory management issue - v1.3.1
+Updated dependencies to latest versions - 661
