@@ -2760,3 +2760,4 @@ Refactored code for better maintainability - update 38
 Optimized algorithm for better efficiency
 Updated configuration settings
 Updated configuration settings
+Added detailed comments for clarity
