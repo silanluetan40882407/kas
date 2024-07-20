@@ -2289,3 +2289,4 @@ Added proper error handling - 629
 Fixed critical bug in main module - 245
 Code cleanup and formatting - 371
 Refactored code for better maintainability
+Fixed memory management issue - v3.9.5
