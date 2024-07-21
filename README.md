@@ -1756,3 +1756,4 @@ Fixed typo in documentation - update 26
 Fixed memory management issue
 Updated configuration settings - 461
 Updated version number - 985
+Updated README with new instructions - 16
