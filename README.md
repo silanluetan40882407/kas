@@ -1755,3 +1755,4 @@ Fixed typo in documentation - update 17
 Fixed typo in documentation - update 26
 Fixed memory management issue
 Updated configuration settings - 461
+Updated version number - 985
