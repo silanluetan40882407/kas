@@ -3045,3 +3045,4 @@ Fixed memory management issue - update 14
 Updated dependencies to latest versions
 Updated project documentation - update 25
 Fixed code formatting issues - 767
+Added new feature for better user experience - v1.6.6
