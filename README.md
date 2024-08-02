@@ -3040,3 +3040,4 @@ Improved user interface design - v6.3.8
 Fixed typo in documentation - 63
 Improved user interface design - 313
 Updated styling and themes - v7.7.3
+Fixed memory management issue - update 5
