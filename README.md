@@ -3947,3 +3947,4 @@ Added new feature for better user experience - build 115
 Improved user interface design - build 471
 Improved performance optimization
 Refactored code for better maintainability - v2.5.9
+Updated README with new instructions - v3.7.4
