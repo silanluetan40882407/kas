@@ -1725,3 +1725,4 @@ Optimized algorithm for better efficiency - v5.2.8
 Updated README with new instructions
 Improved performance optimization - v9.5.1
 Fixed critical bug in main module - v4.5.8
+Updated README with new instructions - build 371
