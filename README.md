@@ -1733,3 +1733,4 @@ Improved user interface design - 585
 Updated README with new instructions
 Fixed typo in documentation
 Updated styling and themes - v3.8.4
+Added proper error handling - v9.6.6
