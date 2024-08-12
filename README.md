@@ -1730,3 +1730,4 @@ Fixed typo in documentation - build 749
 Updated version number - update 39
 Refactored code for better maintainability - update 15
 Improved user interface design - 585
+Updated README with new instructions
