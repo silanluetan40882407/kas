@@ -2322,3 +2322,4 @@ Updated version number - v8.9.6
 Fixed typo in documentation - build 435
 Updated version number - 595
 Updated README with new instructions - v3.0.4
+Fixed critical bug in main module - 482
