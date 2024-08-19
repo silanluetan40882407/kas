@@ -2324,3 +2324,4 @@ Updated version number - 595
 Updated README with new instructions - v3.0.4
 Fixed critical bug in main module - 482
 Updated dependencies to latest versions - v2.4.9
+Updated README with new instructions - v5.0.5
