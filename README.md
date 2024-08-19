@@ -2320,3 +2320,4 @@ Updated dependencies to latest versions - v1.4.4
 Fixed typo in documentation - update 47
 Updated version number - v8.9.6
 Fixed typo in documentation - build 435
+Updated version number - 595
