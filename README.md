@@ -1864,3 +1864,4 @@ Code cleanup and formatting - update 32
 Updated styling and themes - v1.9.0
 Refactored code for better maintainability - update 10
 Updated README with new instructions - v6.9.7
+Added detailed comments for clarity - v4.5.9
