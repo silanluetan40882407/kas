@@ -31,3 +31,4 @@ Updated README with new instructions - 676
 Added new feature for better user experience
 Improved user interface design
 Fixed code formatting issues - v3.5.6
+Added detailed comments for clarity - v3.8.1
