@@ -30,3 +30,4 @@ Updated configuration settings - build 336
 Updated README with new instructions - 676
 Added new feature for better user experience
 Improved user interface design
+Fixed code formatting issues - v3.5.6
