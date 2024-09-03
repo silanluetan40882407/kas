@@ -2858,3 +2858,4 @@ Fixed typo in documentation - v8.1.6
 Code cleanup and formatting - v9.8.8
 Updated project documentation
 Improved performance optimization
+Fixed memory management issue
