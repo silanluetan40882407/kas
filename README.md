@@ -949,3 +949,4 @@ Fixed code formatting issues - update 28
 Code cleanup and formatting - update 8
 Updated version number - build 994
 Improved user interface design - 950
+Added proper error handling - v5.6.5
