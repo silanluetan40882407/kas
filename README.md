@@ -2261,3 +2261,4 @@ Fixed code formatting issues - 734
 Updated styling and themes
 Updated project documentation
 Fixed typo in documentation - 725
+Fixed code formatting issues
