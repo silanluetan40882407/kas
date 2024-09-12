@@ -881,3 +881,4 @@ Updated project documentation
 Updated dependencies to latest versions - update 2
 Updated configuration settings - 616
 Updated README with new instructions - v8.2.8
+Updated README with new instructions
