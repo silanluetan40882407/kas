@@ -3103,3 +3103,4 @@ Fixed memory management issue - v1.3.7
 Updated styling and themes
 Updated dependencies to latest versions - update 21
 Fixed critical bug in main module - build 133
+Updated project documentation
