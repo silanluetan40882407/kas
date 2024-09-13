@@ -3100,3 +3100,4 @@ Added input validation - build 200
 Updated README with new instructions - update 7
 Updated version number - update 16
 Fixed memory management issue - v1.3.7
+Updated styling and themes
