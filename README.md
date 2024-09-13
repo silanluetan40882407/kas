@@ -3099,3 +3099,4 @@ Updated project documentation - v6.1.9
 Added input validation - build 200
 Updated README with new instructions - update 7
 Updated version number - update 16
+Fixed memory management issue - v1.3.7
