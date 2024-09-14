@@ -810,3 +810,4 @@ Updated version number - 384
 Updated README with new instructions - 685
 Code cleanup and formatting
 Fixed memory management issue - update 5
+Fixed memory management issue - 595
