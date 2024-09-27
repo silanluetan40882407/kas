@@ -3432,3 +3432,4 @@ Added input validation
 Refactored code for better maintainability - 972
 Added proper error handling - 745
 Updated version number - build 112
+Improved user interface design - v8.3.8
