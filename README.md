@@ -1059,3 +1059,4 @@ Updated styling and themes - build 144
 Updated dependencies to latest versions - 292
 Updated version number - v8.6.0
 Updated styling and themes - build 235
+Improved user interface design - build 473
