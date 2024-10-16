@@ -3448,3 +3448,4 @@ Added input validation - v5.5.3
 Fixed critical bug in main module - 189
 Added comprehensive test coverage
 Updated README with new instructions - v1.4.1
+Added detailed comments for clarity - v7.7.2
