@@ -3070,3 +3070,4 @@ Added proper error handling - 944
 Updated README with new instructions - v8.4.6
 Updated version number
 Updated dependencies to latest versions - build 280
+Code cleanup and formatting - update 8
