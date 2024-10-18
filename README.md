@@ -3071,3 +3071,4 @@ Updated README with new instructions - v8.4.6
 Updated version number
 Updated dependencies to latest versions - build 280
 Code cleanup and formatting - update 8
+Refactored code for better maintainability
