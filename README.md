@@ -2854,3 +2854,4 @@ Updated dependencies to latest versions - 560
 Updated version number - update 45
 Added proper error handling - build 505
 Fixed typo in documentation - 570
+Fixed typo in documentation - v8.1.6
