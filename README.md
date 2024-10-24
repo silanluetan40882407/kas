@@ -2375,3 +2375,4 @@ Code cleanup and formatting - build 486
 Fixed code formatting issues - build 933
 Updated README with new instructions - 708
 Code cleanup and formatting - update 33
+Fixed code formatting issues - v1.0.2
