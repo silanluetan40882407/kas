@@ -562,3 +562,4 @@ Updated configuration settings - update 6
 Fixed critical bug in main module - 386
 Fixed code formatting issues
 Updated dependencies to latest versions - 889
+Fixed typo in documentation - v8.5.2
