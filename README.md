@@ -564,3 +564,4 @@ Fixed code formatting issues
 Updated dependencies to latest versions - 889
 Fixed typo in documentation - v8.5.2
 Updated configuration settings - build 401
+Fixed typo in documentation - 192
