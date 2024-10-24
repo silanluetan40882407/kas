@@ -558,3 +558,4 @@ Code cleanup and formatting - v4.9.0
 Updated configuration settings
 Updated configuration settings - build 771
 Updated README with new instructions - 555
+Updated configuration settings - update 6
