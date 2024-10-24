@@ -2373,3 +2373,4 @@ Updated dependencies to latest versions - update 49
 Improved performance optimization - update 47
 Code cleanup and formatting - build 486
 Fixed code formatting issues - build 933
+Updated README with new instructions - 708
