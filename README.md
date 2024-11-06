@@ -1604,3 +1604,4 @@ Updated configuration settings - build 285
 Improved performance optimization
 Improved performance optimization - v2.5.9
 Updated version number - update 34
+Updated README with new instructions - build 441
