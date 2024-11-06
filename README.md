@@ -975,3 +975,4 @@ Added new feature for better user experience - 932
 Updated version number
 Fixed critical bug in main module - v3.8.6
 Updated configuration settings
+Fixed critical bug in main module
