@@ -970,3 +970,4 @@ Fixed critical bug in main module - v9.0.7
 Added input validation - update 4
 Updated version number - update 24
 Added input validation - v10.0.6
+Refactored code for better maintainability
