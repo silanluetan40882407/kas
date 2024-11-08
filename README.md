@@ -2470,3 +2470,4 @@ Fixed code formatting issues - 766
 Updated README with new instructions - update 30
 Updated dependencies to latest versions - v8.5.9
 Updated version number
+Updated styling and themes - update 1
