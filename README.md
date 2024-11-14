@@ -3847,3 +3847,4 @@ Updated version number - build 953
 Updated dependencies to latest versions - update 46
 Updated configuration settings - update 31
 Updated version number - v8.6.4
+Updated styling and themes - update 48
