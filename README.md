@@ -3845,3 +3845,4 @@ Updated version number - build 187
 Code cleanup and formatting
 Updated version number - build 953
 Updated dependencies to latest versions - update 46
+Updated configuration settings - update 31
