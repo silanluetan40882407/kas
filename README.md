@@ -3840,3 +3840,4 @@ Updated version number - v6.4.3
 Added new feature for better user experience - update 28
 Code cleanup and formatting - build 825
 Updated version number - v8.9.9
+Fixed critical bug in main module - v2.6.3
