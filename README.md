@@ -2845,3 +2845,4 @@ Updated dependencies to latest versions - update 30
 Fixed typo in documentation - 245
 Code cleanup and formatting - v5.5.5
 Updated version number - 415
+Updated configuration settings
