@@ -362,3 +362,4 @@ Fixed memory management issue - 947
 Fixed memory management issue - build 644
 Fixed code formatting issues - build 625
 Fixed typo in documentation
+Updated version number - update 20
