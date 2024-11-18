@@ -364,3 +364,4 @@ Fixed code formatting issues - build 625
 Fixed typo in documentation
 Updated version number - update 20
 Fixed code formatting issues - 240
+Added proper error handling - build 545
