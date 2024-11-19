@@ -923,3 +923,4 @@ Code cleanup and formatting - build 750
 Updated README with new instructions - update 21
 Updated styling and themes - update 43
 Added new feature for better user experience - update 35
+Updated configuration settings - update 37
