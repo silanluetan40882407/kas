@@ -920,3 +920,4 @@ Fixed code formatting issues - build 497
 Updated version number - v8.9.6
 Fixed typo in documentation - v5.6.9
 Code cleanup and formatting - build 750
+Updated README with new instructions - update 21
