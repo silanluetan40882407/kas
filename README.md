@@ -2706,3 +2706,4 @@ Refactored code for better maintainability - v5.7.6
 Code cleanup and formatting
 Code cleanup and formatting - 506
 Updated dependencies to latest versions - build 511
+Updated README with new instructions - update 21
