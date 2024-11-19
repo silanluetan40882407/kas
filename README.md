@@ -921,3 +921,4 @@ Updated version number - v8.9.6
 Fixed typo in documentation - v5.6.9
 Code cleanup and formatting - build 750
 Updated README with new instructions - update 21
+Updated styling and themes - update 43
