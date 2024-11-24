@@ -625,3 +625,4 @@ Updated styling and themes - 739
 Improved performance optimization - build 352
 Added input validation - build 431
 Updated README with new instructions
+Added detailed comments for clarity
