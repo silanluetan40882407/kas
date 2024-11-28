@@ -746,3 +746,4 @@ Improved performance optimization - 459
 Updated configuration settings - v3.9.5
 Fixed typo in documentation
 Code cleanup and formatting - update 43
+Code cleanup and formatting - v3.9.8
