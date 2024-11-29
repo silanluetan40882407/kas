@@ -1642,3 +1642,4 @@ Added detailed comments for clarity - v8.8.2
 Updated project documentation - update 40
 Fixed critical bug in main module - 474
 Fixed typo in documentation - 821
+Updated README with new instructions - 184
