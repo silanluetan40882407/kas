@@ -2283,3 +2283,4 @@ Added input validation
 Fixed code formatting issues - 846
 Fixed critical bug in main module
 Added new feature for better user experience - build 685
+Fixed code formatting issues - v7.0.8
