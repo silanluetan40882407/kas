@@ -642,3 +642,4 @@ Updated README with new instructions - build 346
 Optimized algorithm for better efficiency
 Updated version number - update 8
 Updated README with new instructions - v2.8.6
+Improved user interface design - 309
