@@ -2388,3 +2388,4 @@ Added input validation - 962
 Updated configuration settings - update 22
 Code cleanup and formatting - v7.6.4
 Optimized algorithm for better efficiency
+Added detailed comments for clarity - update 5
