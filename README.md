@@ -2394,3 +2394,4 @@ Fixed typo in documentation - 883
 Updated project documentation
 Updated version number - update 20
 Updated README with new instructions - update 18
+Updated project documentation - update 21
