@@ -857,3 +857,4 @@ Fixed typo in documentation - v9.2.5
 Improved performance optimization - update 26
 Added comprehensive test coverage - 480
 Optimized algorithm for better efficiency - update 27
+Fixed memory management issue - v2.9.5
