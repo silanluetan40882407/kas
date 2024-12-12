@@ -229,3 +229,4 @@ Updated version number - v1.5.6
 Updated version number - v2.5.7
 Added new feature for better user experience
 Updated README with new instructions
+Updated README with new instructions - v5.7.2
