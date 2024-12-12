@@ -231,3 +231,4 @@ Added new feature for better user experience
 Updated README with new instructions
 Updated README with new instructions - v5.7.2
 Improved performance optimization - update 30
+Optimized algorithm for better efficiency - v1.8.9
