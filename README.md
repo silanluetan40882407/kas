@@ -1668,3 +1668,4 @@ Updated project documentation
 Updated version number - v9.7.7
 Added input validation - 203
 Updated dependencies to latest versions - build 289
+Code cleanup and formatting - 933
