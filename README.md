@@ -259,3 +259,4 @@ Updated version number - 549
 Improved user interface design
 Updated version number - update 10
 Updated dependencies to latest versions - build 602
+Updated README with new instructions
