@@ -264,3 +264,4 @@ Added new feature for better user experience - v10.6.7
 Updated configuration settings
 Added new feature for better user experience - v6.4.4
 Added proper error handling
+Fixed code formatting issues - build 327
