@@ -262,3 +262,4 @@ Updated dependencies to latest versions - build 602
 Updated README with new instructions
 Added new feature for better user experience - v10.6.7
 Updated configuration settings
+Added new feature for better user experience - v6.4.4
