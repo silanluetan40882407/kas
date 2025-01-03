@@ -1305,3 +1305,4 @@ Added proper error handling - v9.6.0
 Fixed typo in documentation - v4.4.3
 Refactored code for better maintainability - build 801
 Fixed typo in documentation - v5.7.2
+Fixed code formatting issues
