@@ -1307,3 +1307,4 @@ Refactored code for better maintainability - build 801
 Fixed typo in documentation - v5.7.2
 Fixed code formatting issues
 Fixed code formatting issues - v9.7.8
+Code cleanup and formatting
