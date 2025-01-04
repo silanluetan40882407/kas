@@ -1626,3 +1626,4 @@ Updated styling and themes - build 551
 Updated version number - 662
 Updated version number
 Fixed typo in documentation - build 220
+Fixed memory management issue - build 272
