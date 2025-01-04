@@ -1625,3 +1625,4 @@ Added proper error handling - update 7
 Updated styling and themes - build 551
 Updated version number - 662
 Updated version number
+Fixed typo in documentation - build 220
