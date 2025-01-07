@@ -3022,3 +3022,4 @@ Added proper error handling - build 403
 Updated styling and themes - build 322
 Added proper error handling - build 566
 Fixed code formatting issues - build 705
+Updated README with new instructions
