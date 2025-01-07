@@ -3023,3 +3023,4 @@ Updated styling and themes - build 322
 Added proper error handling - build 566
 Fixed code formatting issues - build 705
 Updated README with new instructions
+Fixed memory management issue - v10.8.2
