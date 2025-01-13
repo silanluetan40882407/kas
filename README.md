@@ -2455,3 +2455,4 @@ Added new feature for better user experience - update 3
 Refactored code for better maintainability - v10.5.7
 Updated dependencies to latest versions
 Fixed memory management issue - 444
+Updated README with new instructions
