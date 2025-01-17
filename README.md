@@ -1263,3 +1263,4 @@ Updated project documentation - v5.8.7
 Updated styling and themes - 212
 Updated dependencies to latest versions - update 35
 Improved user interface design - build 102
+Fixed typo in documentation - v7.5.9
