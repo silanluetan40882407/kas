@@ -1265,3 +1265,4 @@ Updated dependencies to latest versions - update 35
 Improved user interface design - build 102
 Fixed typo in documentation - v7.5.9
 Improved user interface design - build 193
+Added proper error handling - build 494
