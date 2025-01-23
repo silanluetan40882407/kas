@@ -963,3 +963,4 @@ Updated README with new instructions - build 852
 Improved user interface design
 Fixed memory management issue - v5.5.9
 Fixed memory management issue - build 295
+Updated version number - build 237
