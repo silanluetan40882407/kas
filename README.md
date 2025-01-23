@@ -959,3 +959,4 @@ Added new feature for better user experience - build 999
 Improved user interface design - update 11
 Fixed memory management issue
 Code cleanup and formatting
+Updated README with new instructions - build 852
