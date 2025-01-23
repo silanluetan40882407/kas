@@ -961,3 +961,4 @@ Fixed memory management issue
 Code cleanup and formatting
 Updated README with new instructions - build 852
 Improved user interface design
+Fixed memory management issue - v5.5.9
