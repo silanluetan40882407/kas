@@ -988,3 +988,4 @@ Updated styling and themes - 470
 Code cleanup and formatting
 Updated README with new instructions - build 976
 Fixed critical bug in main module - build 814
+Updated README with new instructions
