@@ -996,3 +996,4 @@ Fixed memory management issue - v2.2.4
 Added proper error handling
 Updated README with new instructions
 Updated styling and themes - 127
+Updated configuration settings - 482
