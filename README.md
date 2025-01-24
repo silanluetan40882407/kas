@@ -992,3 +992,4 @@ Updated README with new instructions
 Updated version number - build 856
 Fixed typo in documentation - 596
 Added proper error handling - v1.2.9
+Fixed memory management issue - v2.2.4
