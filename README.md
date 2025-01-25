@@ -2953,3 +2953,4 @@ Added new feature for better user experience
 Fixed memory management issue - build 108
 Fixed memory management issue - build 845
 Added comprehensive test coverage - update 13
+Added input validation - v2.3.8
