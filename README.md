@@ -2957,3 +2957,4 @@ Added input validation - v2.3.8
 Code cleanup and formatting - build 880
 Added new feature for better user experience - build 285
 Fixed typo in documentation - build 973
+Added input validation - 492
