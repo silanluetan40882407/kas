@@ -3374,3 +3374,4 @@ Updated version number - build 267
 Added input validation - 267
 Fixed typo in documentation
 Updated styling and themes
+Fixed memory management issue - build 991
