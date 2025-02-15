@@ -1155,3 +1155,4 @@ Updated dependencies to latest versions
 Code cleanup and formatting - v9.6.7
 Updated styling and themes - build 790
 Improved performance optimization - update 11
+Updated README with new instructions - v3.1.1
