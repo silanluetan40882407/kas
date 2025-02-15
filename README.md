@@ -1662,3 +1662,4 @@ Updated styling and themes - build 272
 Updated version number - update 5
 Fixed code formatting issues - v6.2.8
 Updated version number - build 276
+Updated version number - v6.3.2
