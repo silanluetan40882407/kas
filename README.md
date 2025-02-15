@@ -1665,3 +1665,4 @@ Updated version number - build 276
 Updated version number - v6.3.2
 Added input validation - 638
 Updated project documentation
+Updated version number - v9.7.7
