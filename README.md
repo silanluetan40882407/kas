@@ -2930,3 +2930,4 @@ Updated project documentation - build 663
 Refactored code for better maintainability - v1.8.8
 Added input validation - v7.1.2
 Updated version number - build 103
+Added input validation - v1.9.7
