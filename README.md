@@ -2935,3 +2935,4 @@ Improved performance optimization - v3.8.0
 Improved performance optimization - 887
 Updated dependencies to latest versions - build 339
 Added input validation - build 794
+Added detailed comments for clarity - v3.9.1
