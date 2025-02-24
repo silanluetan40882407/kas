@@ -796,3 +796,4 @@ Fixed typo in documentation - v3.0.3
 Fixed critical bug in main module - build 106
 Updated dependencies to latest versions - update 29
 Fixed code formatting issues
+Added proper error handling - v7.3.0
