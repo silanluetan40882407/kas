@@ -789,3 +789,4 @@ Updated dependencies to latest versions - build 854
 Added input validation
 Refactored code for better maintainability - build 837
 Fixed typo in documentation - 90
+Updated README with new instructions - v2.3.6
