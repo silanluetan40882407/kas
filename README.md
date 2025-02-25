@@ -2977,3 +2977,4 @@ Updated README with new instructions
 Added new feature for better user experience - 134
 Updated dependencies to latest versions - update 5
 Updated version number
+Fixed memory management issue - update 3
