@@ -1825,3 +1825,4 @@ Updated project documentation - v5.2.0
 Fixed typo in documentation
 Optimized algorithm for better efficiency - v4.7.1
 Updated README with new instructions
+Fixed memory management issue - 480
