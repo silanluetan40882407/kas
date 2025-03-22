@@ -891,3 +891,4 @@ Added new feature for better user experience - v7.4.9
 Updated project documentation
 Added new feature for better user experience - v8.7.2
 Improved user interface design - 185
+Fixed memory management issue - build 111
