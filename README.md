@@ -577,3 +577,4 @@ Fixed critical bug in main module
 Code cleanup and formatting
 Added new feature for better user experience
 Added input validation
+Added detailed comments for clarity - v3.5.8
