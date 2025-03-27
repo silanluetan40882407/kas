@@ -3718,3 +3718,4 @@ Updated dependencies to latest versions - update 21
 Updated version number - update 23
 Fixed code formatting issues - build 640
 Updated README with new instructions - update 9
+Fixed code formatting issues - v2.7.9
