@@ -1547,3 +1547,4 @@ Optimized algorithm for better efficiency - update 34
 Added input validation - build 134
 Improved performance optimization - v3.5.7
 Improved performance optimization - v4.0.4
+Added detailed comments for clarity - update 3
