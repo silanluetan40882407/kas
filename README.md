@@ -1592,3 +1592,4 @@ Added new feature for better user experience
 Added detailed comments for clarity - 118
 Fixed typo in documentation - v6.0.4
 Added input validation
+Refactored code for better maintainability
