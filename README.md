@@ -1590,3 +1590,4 @@ Improved performance optimization
 Added detailed comments for clarity
 Added new feature for better user experience
 Added detailed comments for clarity - 118
+Fixed typo in documentation - v6.0.4
