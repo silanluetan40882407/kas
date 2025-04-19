@@ -3206,3 +3206,4 @@ Improved user interface design - v1.4.7
 Added comprehensive test coverage - update 40
 Updated version number - v6.3.9
 Fixed code formatting issues - build 160
+Updated README with new instructions
