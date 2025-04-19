@@ -3200,3 +3200,4 @@ Updated dependencies to latest versions - 499
 Fixed critical bug in main module - update 1
 Refactored code for better maintainability - build 699
 Updated configuration settings - v8.7.4
+Updated README with new instructions - 156
