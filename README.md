@@ -1396,3 +1396,4 @@ Improved user interface design - update 19
 Added detailed comments for clarity - 793
 Added detailed comments for clarity - v4.3.8
 Updated styling and themes
+Updated README with new instructions
