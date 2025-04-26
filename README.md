@@ -308,3 +308,4 @@ Updated configuration settings
 Added proper error handling - v8.6.6
 Improved user interface design - v8.7.1
 Improved user interface design - 829
+Fixed memory management issue
