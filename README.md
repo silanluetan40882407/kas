@@ -312,3 +312,4 @@ Fixed memory management issue
 Optimized algorithm for better efficiency - 1
 Added comprehensive test coverage
 Fixed typo in documentation - build 282
+Fixed typo in documentation - v2.5.4
