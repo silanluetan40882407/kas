@@ -316,3 +316,4 @@ Fixed typo in documentation - v2.5.4
 Updated version number - build 274
 Added detailed comments for clarity - update 37
 Added detailed comments for clarity - v9.6.7
+Code cleanup and formatting - update 6
