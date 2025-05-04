@@ -1780,3 +1780,4 @@ Updated dependencies to latest versions - v7.2.3
 Updated styling and themes - 491
 Fixed typo in documentation - 35
 Optimized algorithm for better efficiency - 896
+Added detailed comments for clarity - v6.6.8
