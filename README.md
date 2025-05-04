@@ -1778,3 +1778,4 @@ Fixed memory management issue - 320
 Updated version number - 127
 Updated dependencies to latest versions - v7.2.3
 Updated styling and themes - 491
+Fixed typo in documentation - 35
