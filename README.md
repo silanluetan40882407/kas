@@ -1962,3 +1962,4 @@ Refactored code for better maintainability - v1.4.0
 Added proper error handling
 Optimized algorithm for better efficiency - v10.4.3
 Added detailed comments for clarity - 497
+Fixed memory management issue - v8.2.4
