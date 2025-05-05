@@ -1958,3 +1958,4 @@ Code cleanup and formatting - update 24
 Updated version number
 Updated version number - v8.1.8
 Fixed critical bug in main module - update 13
+Refactored code for better maintainability - v1.4.0
