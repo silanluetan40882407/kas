@@ -1961,3 +1961,4 @@ Fixed critical bug in main module - update 13
 Refactored code for better maintainability - v1.4.0
 Added proper error handling
 Optimized algorithm for better efficiency - v10.4.3
+Added detailed comments for clarity - 497
