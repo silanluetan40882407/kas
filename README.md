@@ -1095,3 +1095,4 @@ Updated configuration settings - v7.0.9
 Updated configuration settings
 Updated configuration settings
 Updated configuration settings - v6.8.3
+Updated configuration settings - v3.2.0
