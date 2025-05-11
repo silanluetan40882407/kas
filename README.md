@@ -1096,3 +1096,4 @@ Updated configuration settings
 Updated configuration settings
 Updated configuration settings - v6.8.3
 Updated configuration settings - v3.2.0
+Updated README with new instructions
