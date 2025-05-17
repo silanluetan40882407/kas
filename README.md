@@ -872,3 +872,4 @@ Updated README with new instructions
 Improved user interface design - build 518
 Updated project documentation - build 171
 Updated README with new instructions
+Added detailed comments for clarity
