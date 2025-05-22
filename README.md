@@ -2747,3 +2747,4 @@ Added proper error handling - update 3
 Added new feature for better user experience - update 7
 Added new feature for better user experience
 Added proper error handling - 193
+Updated dependencies to latest versions - v3.7.0
