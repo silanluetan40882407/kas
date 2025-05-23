@@ -75,3 +75,4 @@ Updated configuration settings - build 347
 Fixed memory management issue - build 894
 Updated dependencies to latest versions - update 37
 Optimized algorithm for better efficiency - update 6
+Fixed memory management issue - update 8
