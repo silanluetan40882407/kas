@@ -2784,3 +2784,4 @@ Updated version number
 Updated styling and themes - v7.8.1
 Fixed memory management issue - v9.6.8
 Fixed critical bug in main module - 752
+Code cleanup and formatting
