@@ -2781,3 +2781,4 @@ Fixed memory management issue - 520
 Fixed code formatting issues
 Updated styling and themes - update 33
 Updated version number
+Updated styling and themes - v7.8.1
