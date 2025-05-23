@@ -72,3 +72,4 @@ Updated configuration settings - 1
 Updated project documentation - v6.5.7
 Fixed memory management issue - update 15
 Updated configuration settings - build 347
+Fixed memory management issue - build 894
