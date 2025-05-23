@@ -69,3 +69,4 @@ Added input validation
 Updated styling and themes
 Updated version number - build 535
 Updated configuration settings - 1
+Updated project documentation - v6.5.7
