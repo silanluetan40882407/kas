@@ -2782,3 +2782,4 @@ Fixed code formatting issues
 Updated styling and themes - update 33
 Updated version number
 Updated styling and themes - v7.8.1
+Fixed memory management issue - v9.6.8
