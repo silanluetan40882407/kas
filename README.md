@@ -2163,3 +2163,4 @@ Updated README with new instructions - update 45
 Fixed typo in documentation - 277
 Updated configuration settings - build 602
 Updated project documentation
+Updated styling and themes
