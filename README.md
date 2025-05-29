@@ -2167,3 +2167,4 @@ Updated styling and themes
 Added proper error handling - v4.7.3
 Updated configuration settings
 Added input validation
+Updated README with new instructions - build 253
