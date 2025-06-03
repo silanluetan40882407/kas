@@ -3208,3 +3208,4 @@ Updated version number - v6.3.9
 Fixed code formatting issues - build 160
 Updated README with new instructions
 Updated version number - build 821
+Updated dependencies to latest versions - 592
