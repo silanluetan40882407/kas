@@ -1572,3 +1572,4 @@ Optimized algorithm for better efficiency
 Improved performance optimization - 253
 Fixed memory management issue
 Updated project documentation - 299
+Code cleanup and formatting - v2.4.0
