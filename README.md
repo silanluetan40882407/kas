@@ -3351,3 +3351,4 @@ Updated dependencies to latest versions - 334
 Updated styling and themes
 Updated dependencies to latest versions - 761
 Improved performance optimization - 853
+Updated README with new instructions - 911
