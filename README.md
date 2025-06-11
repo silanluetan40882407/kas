@@ -2792,3 +2792,4 @@ Added new feature for better user experience - build 137
 Updated dependencies to latest versions - 710
 Added new feature for better user experience - v5.5.6
 Updated version number
+Added detailed comments for clarity - build 928
