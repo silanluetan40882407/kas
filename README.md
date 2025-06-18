@@ -3343,3 +3343,4 @@ Improved user interface design - 184
 Updated version number - build 647
 Updated configuration settings - v7.4.6
 Added new feature for better user experience - 226
+Fixed typo in documentation - v8.2.3
