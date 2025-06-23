@@ -613,3 +613,4 @@ Improved performance optimization - 885
 Added new feature for better user experience - v2.8.3
 Added input validation
 Code cleanup and formatting
+Fixed code formatting issues - update 18
