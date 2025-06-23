@@ -610,3 +610,4 @@ Improved user interface design - build 951
 Refactored code for better maintainability - build 658
 Fixed memory management issue - 66
 Improved performance optimization - 885
+Added new feature for better user experience - v2.8.3
