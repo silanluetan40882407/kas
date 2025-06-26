@@ -2675,3 +2675,4 @@ Added comprehensive test coverage
 Updated styling and themes - 741
 Fixed memory management issue
 Fixed critical bug in main module
+Fixed code formatting issues - v2.6.6
