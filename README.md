@@ -2668,3 +2668,4 @@ Improved user interface design - 571
 Added input validation - 227
 Fixed memory management issue - update 26
 Fixed typo in documentation
+Updated README with new instructions - 446
