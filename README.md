@@ -1105,3 +1105,4 @@ Added new feature for better user experience - build 642
 Updated README with new instructions - build 390
 Updated README with new instructions
 Updated version number - update 44
+Updated dependencies to latest versions - update 5
