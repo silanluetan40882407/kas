@@ -1099,3 +1099,4 @@ Updated configuration settings - v3.2.0
 Updated README with new instructions
 Updated project documentation - 314
 Fixed critical bug in main module - build 534
+Updated README with new instructions - update 25
