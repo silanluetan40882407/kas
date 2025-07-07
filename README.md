@@ -1385,3 +1385,4 @@ Fixed critical bug in main module - 467
 Updated version number - build 142
 Optimized algorithm for better efficiency - build 741
 Updated version number - update 40
+Updated README with new instructions - update 28
