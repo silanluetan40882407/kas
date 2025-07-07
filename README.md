@@ -118,3 +118,4 @@ Added input validation - update 17
 Added proper error handling
 Added input validation
 Updated styling and themes - v9.1.8
+Fixed typo in documentation - build 591
