@@ -125,3 +125,4 @@ Updated styling and themes
 Updated version number - 989
 Updated configuration settings - 276
 Updated version number - update 31
+Fixed code formatting issues - update 12
