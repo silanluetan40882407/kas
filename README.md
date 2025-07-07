@@ -291,3 +291,4 @@ Added input validation - update 44
 Added input validation - update 50
 Updated project documentation - build 334
 Fixed code formatting issues - 541
+Fixed typo in documentation - v3.5.1
