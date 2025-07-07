@@ -294,3 +294,4 @@ Fixed code formatting issues - 541
 Fixed typo in documentation - v3.5.1
 Updated dependencies to latest versions - update 14
 Updated styling and themes - build 991
+Updated project documentation - v4.7.9
