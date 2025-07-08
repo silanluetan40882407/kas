@@ -2252,3 +2252,4 @@ Added new feature for better user experience - v3.3.4
 Fixed typo in documentation - update 24
 Added new feature for better user experience - 956
 Updated project documentation
+Added comprehensive test coverage - v1.9.6
