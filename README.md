@@ -2715,3 +2715,4 @@ Fixed memory management issue - v10.7.7
 Updated README with new instructions - v6.8.2
 Fixed memory management issue - build 101
 Updated version number
+Improved performance optimization - update 44
