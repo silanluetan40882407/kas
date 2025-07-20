@@ -2713,3 +2713,4 @@ Updated dependencies to latest versions - build 197
 Optimized algorithm for better efficiency - build 391
 Fixed memory management issue - v10.7.7
 Updated README with new instructions - v6.8.2
+Fixed memory management issue - build 101
