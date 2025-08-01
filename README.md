@@ -3621,3 +3621,4 @@ Refactored code for better maintainability - v8.9.9
 Updated project documentation - update 13
 Updated project documentation - update 29
 Added input validation - v3.2.6
+Added proper error handling - v3.1.9
