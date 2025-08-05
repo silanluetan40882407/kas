@@ -1330,3 +1330,4 @@ Added detailed comments for clarity
 Updated project documentation - 63
 Updated README with new instructions - v5.0.2
 Added detailed comments for clarity
+Fixed code formatting issues - v2.8.0
