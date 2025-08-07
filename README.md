@@ -3081,3 +3081,4 @@ Optimized algorithm for better efficiency - 909
 Improved performance optimization - 999
 Improved performance optimization - 813
 Updated version number
+Added detailed comments for clarity - v2.0.1
