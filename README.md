@@ -2406,3 +2406,4 @@ Refactored code for better maintainability - update 18
 Updated configuration settings
 Updated README with new instructions - update 33
 Updated configuration settings - update 48
+Added new feature for better user experience - v4.8.8
