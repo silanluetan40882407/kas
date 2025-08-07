@@ -2404,3 +2404,4 @@ Refactored code for better maintainability - v7.6.7
 Added new feature for better user experience
 Refactored code for better maintainability - update 18
 Updated configuration settings
+Updated README with new instructions - update 33
