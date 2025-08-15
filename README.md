@@ -654,3 +654,4 @@ Updated project documentation - build 446
 Added new feature for better user experience - v2.0.6
 Added input validation - v1.1.9
 Added new feature for better user experience - build 401
+Updated README with new instructions
