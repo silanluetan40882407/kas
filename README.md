@@ -191,3 +191,4 @@ Updated styling and themes - build 899
 Fixed code formatting issues
 Updated project documentation - build 837
 Fixed critical bug in main module - build 934
+Updated README with new instructions
