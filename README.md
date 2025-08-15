@@ -197,3 +197,4 @@ Fixed memory management issue - update 34
 Optimized algorithm for better efficiency - v9.4.7
 Added proper error handling - 591
 Code cleanup and formatting
+Updated README with new instructions - v1.8.8
