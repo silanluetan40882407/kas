@@ -1910,3 +1910,4 @@ Added comprehensive test coverage - update 45
 Fixed critical bug in main module - 392
 Updated configuration settings - update 14
 Fixed code formatting issues
+Updated README with new instructions - v7.6.3
