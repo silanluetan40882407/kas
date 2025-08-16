@@ -1917,3 +1917,4 @@ Updated configuration settings - update 33
 Updated styling and themes - 269
 Optimized algorithm for better efficiency - build 513
 Optimized algorithm for better efficiency - update 33
+Fixed memory management issue - v7.1.2
