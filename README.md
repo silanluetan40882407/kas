@@ -1207,3 +1207,4 @@ Updated version number
 Added detailed comments for clarity - v2.1.3
 Fixed memory management issue - 278
 Updated dependencies to latest versions - v1.0.0
+Added detailed comments for clarity
