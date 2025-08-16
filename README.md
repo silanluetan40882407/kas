@@ -1201,3 +1201,4 @@ Fixed memory management issue - build 130
 Added new feature for better user experience - build 970
 Updated README with new instructions
 Improved user interface design - v4.3.2
+Improved performance optimization - v5.8.0
