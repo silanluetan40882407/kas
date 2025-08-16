@@ -1206,3 +1206,4 @@ Updated README with new instructions - v4.6.5
 Updated version number
 Added detailed comments for clarity - v2.1.3
 Fixed memory management issue - 278
+Updated dependencies to latest versions - v1.0.0
