@@ -1314,3 +1314,4 @@ Fixed typo in documentation - v1.3.5
 Refactored code for better maintainability - update 3
 Added input validation - 352
 Updated configuration settings - build 506
+Fixed memory management issue - 538
