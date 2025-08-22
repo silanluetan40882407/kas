@@ -1308,3 +1308,4 @@ Fixed typo in documentation - v5.7.2
 Fixed code formatting issues
 Fixed code formatting issues - v9.7.8
 Code cleanup and formatting
+Fixed memory management issue - 683
