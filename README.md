@@ -303,3 +303,4 @@ Updated project documentation - v1.4.6
 Fixed typo in documentation - 33
 Code cleanup and formatting - 39
 Updated styling and themes - 530
+Optimized algorithm for better efficiency
