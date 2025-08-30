@@ -1135,3 +1135,4 @@ Updated dependencies to latest versions - v6.6.8
 Updated dependencies to latest versions
 Updated dependencies to latest versions - build 995
 Updated dependencies to latest versions - 935
+Updated configuration settings - v3.0.8
